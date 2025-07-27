@@ -5,7 +5,7 @@
 ---
 
 
-## 💡 AI-агент: FlashLingua
+##  AI-агент: FlashLingua
 
 ## User Story:
 
