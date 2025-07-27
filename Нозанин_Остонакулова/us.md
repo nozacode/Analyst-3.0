@@ -5,8 +5,7 @@
 ---
 
 
-## 💡 AI-агент: "MicroManager AI"
-
+## 💡 AI-агент: FlashLingua
 
 ## User Story:
 
